@@ -1,0 +1,62 @@
+{
+  "common": {
+    "mainPageTitle": "Main Page",
+    "profilePageTitle": "Profile",
+    "nothingFoundTitle": "Nothing Found...",
+    "somethingWentWrong": "Ooops, something went wrong. {{error}}",
+    "noMovies": "We've found no movies, sorry!"
+  },
+  "header": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "accNotExist": "The password or login is incorrect!",
+    "requiredEmailAndPassword": "Required email and password",
+    "requiredPasswordConfirmation": "Required password confirmation",
+    "successSignUp": "You have successfully signed up, now you can log in to the app",
+    "successSignIn": "You have successfully signed in",
+    "createAcc": "Create one.",
+    "dontHaveAcc": "Dont have an account yet? ",
+    "passForgot": "Forgot your password?",
+    "alreadyRegistered": "You are already registered. Please click the back button and log in to your account!",
+    "passMismatch": "Passwords do not match! Please check and try again"
+  },
+  "main": {
+    "buyTicket": "Buy ticket",
+    "mustLogIn": "In order to buy the ticket, please log in.",
+    "movieCount": "Movie count: ",
+    "searchMovie": "Search movie..."
+  },
+  "movie": {
+    "receiveDataError": "An error occurred while receiving data",
+    "sessionStart": "Start of the session:",
+    "cinemaAddress": "Address:",
+    "cinemaName": "Cinema:",
+    "auditorium": "Auditorium:",
+    "movieDescription": "Movie Description"
+  },
+  "notFound": {
+    "notFound": "404 not found, we have no such page ",
+    "gotoHome": "Go to home page"
+  },
+  "profile": {
+    "changesSaved": "Changes have been successfully saved",
+    "userAlreadyExists": "A user with this email already exists! Try another one",
+    "profileInfo": "Profile information",
+    "lastEdit": "Date of last edit: {{date}}",
+    "saveChanges": "Save changes",
+    "changePassword": "Change password",
+    "phoneInputPlaceholder": "Enter a valid 10 digits format phone",
+    "emailInputPlaceholder": "Enter an email",
+    "birthdayInputPlaceholder": "Select a birthday date",
+    "sexInputPlaceholder": "Your sex (1 letter: m or f in lowercase)",
+    "cityInputPlaceholder": "Enter your city name",
+    "usernameInputPlaceholder": "Enter your username",
+    "oldPasswordInputPlaceholder": "Enter an old password",
+    "newPasswordInputPlaceholder": "Enter a new password",
+    "repeatNewPasswordInputPlaceholder": "Repeat a new password",
+    "oldPasswordIncorrect": "An old password is not entered correctly",
+    "newPasswordsNotMatch": "New passwords do not match",
+    "changeButton": "Change"
+  }
+}

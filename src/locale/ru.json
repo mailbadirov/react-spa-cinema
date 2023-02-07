@@ -1,0 +1,62 @@
+{
+  "common": {
+    "mainPageTitle": "Главная страница",
+    "profilePageTitle": "Профиль",
+    "nothingFoundTitle": "Ничего не найдено...",
+    "somethingWentWrong": "К сожалению, что-то пошло не так. {{error}}",
+    "noMovies": "Извините, фильмов не найдено!"
+  },
+  "header": {
+    "signIn": "Войти",
+    "signUp": "Регистрация",
+    "signOut": "Выйти",
+    "accNotExist": "Неверный пароль или логин!",
+    "requiredEmailAndPassword": "Требуется адрес электронной почты и пароль",
+    "requiredPasswordConfirmation": "Требуется подтверждение пароля",
+    "successSignUp": "Вы успешно зарегистрировались, теперь вы можете войти в приложение",
+    "successSignIn": "Вы успешно вошли в систему",
+    "createAcc": "Создать аккаунт.",
+    "dontHaveAcc": "Еще нет учетной записи? ",
+    "passForgot": "Забыли пароль?",
+    "alreadyRegistered": "Вы уже зарегистрированы. Пожалуйста, нажмите кнопку 'Назад' и войдите в свою учетную запись!",
+    "passMismatch": "Пароли не совпадают! Пожалуйста, проверьте и повторите попытку"
+  },
+  "main": {
+    "buyTicket": "Купить билет",
+    "mustLogIn": "Чтобы купить билет, авторизуйтесь.",
+    "movieCount": "Количество фильмов: ",
+    "searchMovie": "Найти фильм..."
+  },
+  "movie": {
+    "receiveDataError": "Произошла ошибка при получении данных",
+    "sessionStart": "Начало сеанса:",
+    "cinemaAddress": "Адрес:",
+    "cinemaName": "Кинотеатр:",
+    "": "Аудитория:",
+    "movieDescription": "Описание фильма"
+  },
+  "notFound": {
+    "notFound": "404 не найден, такой страницы у нас нет",
+    "gotoHome": "На главную"
+  },
+  "profile": {
+    "changesSaved": "Изменения успешно сохранены",
+    "userAlreadyExists": "Пользователь с таким адресом электронной почты уже существует! Введите другой адрес",
+    "profileInfo": "Информация о профиле",
+    "lastEdit": "Дата последнего редактирования: {{date}}",
+    "saveChanges": "Сохранить",
+    "changePassword": "Изменить пароль",
+    "phoneInputPlaceholder": "Введите правильный номер телефона в 10-значном формате",
+    "emailInputPlaceholder": "Введите адрес электронной почты",
+    "birthdayInputPlaceholder": "Выберите дату рождения",
+    "sexInputPlaceholder": "Ваш пол (1 буква: m или f в нижнем регистре)",
+    "cityInputPlaceholder": "Введите название вашего города",
+    "usernameInputPlaceholder": "Введите ваше имя пользователя",
+    "oldPasswordInputPlaceholder": "Введите старый пароль",
+    "newPasswordInputPlaceholder": "Введите новый пароль",
+    "repeatNewPasswordInputPlaceholder": "Повторите новый пароль",
+    "oldPasswordIncorrect": "Старый пароль введен неправильно",
+    "newPasswordsNotMatch": "Новые пароли не совпадают",
+    "changeButton": "Изменить"
+  }
+}
